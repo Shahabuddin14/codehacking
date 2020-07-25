@@ -12,15 +12,9 @@
     <title>Admin</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="{{asset('css/app.css')}}" rel="stylesheet">
-    <link href="{{asset('css/libs.css')}}" rel="stylesheet">
+    <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
 
-    <link href="{{asset('css/bootstrap.css')}}" rel="stylesheet">
-    <link href="{{asset('css/blog-post.css')}}" rel="stylesheet">
-    <link href="{{asset('css/font-awesome.css')}}" rel="stylesheet">
-    <link href="{{asset('css/metisMenu.css')}}" rel="stylesheet">
-    <link href="{{asset('css/sb-admin-2.css')}}" rel="stylesheet">
-    <link href="{{asset('css/style.css')}}" rel="stylesheet">
+    <link href="{{asset('css/libs.css')}}" rel="stylesheet" type="text/css">
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -337,7 +331,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Admin</h1>
+                <h1 class="page-header"></h1>
 
                 @yield('content')
             </div>
@@ -354,12 +348,6 @@
 
 <!-- jQuery -->
 <script src="{{asset('js/libs.js')}}"></script>
-<script src="{{asset('js/jquery.js')}}"></script>
-<script src="{{asset('js/bootstrap.js')}}"></script>
-<script src="{{asset('js/metisMenu.js')}}"></script>
-<script src="{{asset('js/sb-admin-2.js')}}"></script>
-<script src="{{asset('js/scripts.js')}}"></script>
-
 
 
 @yield('footer')
