@@ -13,9 +13,37 @@
     <list default="true" id="b32ef004-7ca4-4c30-a3a9-b969cec16a94" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminUsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminUsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Photo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Role.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Role.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596127524Photo 4-1-18, 1 58 18 PM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596129377chloe-moretz-hd-4k-chloe-wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596211611Photo 1-25-18, 12 13 20 AM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212310Yamaha-MT-15-Photos-Blue-1000x570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212324uls4tn0gh0ckd6uyujy1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212354tim-stief-YFFGkE3y4F8-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212478the-miseducation-of-cameron-post-chloe-grace-moretz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212666Yamaha-MT-15-Photos-Blue-1000x570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212695monika-geble-FZqISnUVsL0-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212931Chloe-Grace-Moretz-Cameron-Post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212954pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596212971Photo 1-25-18, 12 13 20 AM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596213009pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596213036the-miseducation-of-cameron-post-chloe-grace-moretz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596213056uls4tn0gh0ckd6uyujy1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596213076uls4tn0gh0ckd6uyujy1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/image/1596215556Photo 1-25-18, 12 13 20 AM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/posts/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/posts/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/posts/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/posts/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/users/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/users/edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +115,14 @@
       <workItem from="1596034587864" duration="7394000" />
       <workItem from="1596086698564" duration="3205000" />
       <workItem from="1596120066815" duration="7094000" />
-      <workItem from="1596209346711" duration="3600000" />
+      <workItem from="1596209346711" duration="7048000" />
+      <workItem from="1596391822716" duration="4093000" />
+      <workItem from="1596553515583" duration="2297000" />
+      <workItem from="1596624039250" duration="599000" />
+      <workItem from="1596635484786" duration="14000" />
+      <workItem from="1596983456181" duration="4708000" />
+      <workItem from="1597148113898" duration="555000" />
+      <workItem from="1597153874810" duration="2410000" />
     </task>
     <servers />
   </component>
@@ -127,10 +162,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1492" height="118" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595696213156" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1596044435996">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1596219873373">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1596044435996" />
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1596219873373" />
     <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1596047540462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
